@@ -1,0 +1,208 @@
+{
+    "アーティア火(攻撃3:切れ味2)": {
+      "attack": 220,
+      "affinity": 5,
+      "element": {
+        "type": "火",
+        "value": 180
+      },
+      "sharpness": "白",
+      "sharpness_hits": 80
+    },
+    "アーティア水(攻撃3:切れ味2)": {
+      "attack": 220,
+      "affinity": 5,
+      "element": {
+        "type": "水",
+        "value": 180
+      },
+      "sharpness": "白",
+      "sharpness_hits": 80
+    },
+    "アーティア雷(攻撃3:切れ味2)": {
+      "attack": 220,
+      "affinity": 5,
+      "element": {
+        "type": "雷",
+        "value": 180
+      },
+      "sharpness": "白",
+      "sharpness_hits": 80
+    },
+    "アーティア氷(攻撃3:切れ味2)": {
+      "attack": 220,
+      "affinity": 5,
+      "element": {
+        "type": "氷",
+        "value": 180
+      },
+      "sharpness": "白",
+      "sharpness_hits": 80
+    },
+    "アーティア龍(攻撃3:切れ味2)": {
+      "attack": 220,
+      "affinity": 5,
+      "element": {
+        "type": "龍",
+        "value": 180
+      },
+      "sharpness": "白",
+      "sharpness_hits": 80
+    },
+
+
+    "アーティア火(攻撃4:切れ味1)": {
+      "attack": 225,
+      "affinity": 5,
+      "element": {
+        "type": "火",
+        "value": 180
+      },
+      "sharpness": "白",
+      "sharpness_hits": 50
+    },
+    "アーティア水(攻撃4:切れ味1)": {
+      "attack": 225,
+      "affinity": 5,
+      "element": {
+        "type": "水",
+        "value": 180
+      },
+      "sharpness": "白",
+      "sharpness_hits": 50
+    },
+    "アーティア雷(攻撃4:切れ味1)": {
+      "attack": 225,
+      "affinity": 5,
+      "element": {
+        "type": "雷",
+        "value": 180
+      },
+      "sharpness": "白",
+      "sharpness_hits": 50
+    },
+    "アーティア氷(攻撃4:切れ味1)": {
+      "attack": 225,
+      "affinity": 5,
+      "element": {
+        "type": "氷",
+        "value": 180
+      },
+      "sharpness": "白",
+      "sharpness_hits": 50
+    },
+    "アーティア龍(攻撃4:切れ味1)": {
+      "attack": 225,
+      "affinity": 5,
+      "element": {
+        "type": "龍",
+        "value": 180
+      },
+      "sharpness": "白",
+      "sharpness_hits": 50
+    },
+
+
+    "アーティア火(属性3:切れ味2)": {
+      "attack": 205,
+      "affinity": 5,
+      "element": {
+        "type": "火",
+        "value": 270
+      },
+      "sharpness": "白",
+      "sharpness_hits": 80
+    },
+    "アーティア水(属性3:切れ味2)": {
+      "attack": 205,
+      "affinity": 5,
+      "element": {
+        "type": "水",
+        "value": 270
+      },
+      "sharpness": "白",
+      "sharpness_hits": 80
+    },
+    "アーティア雷(属性3:切れ味2)": {
+      "attack": 205,
+      "affinity": 5,
+      "element": {
+        "type": "雷",
+        "value": 270
+      },
+      "sharpness": "白",
+      "sharpness_hits": 80
+    },
+    "アーティア氷(属性3:切れ味2)": {
+      "attack": 205,
+      "affinity": 5,
+      "element": {
+        "type": "氷",
+        "value": 270
+      },
+      "sharpness": "白",
+      "sharpness_hits": 80
+    },
+    "アーティア龍(属性3:切れ味2)": {
+      "attack": 205,
+      "affinity": 5,
+      "element": {
+        "type": "龍",
+        "value": 270
+      },
+      "sharpness": "白",
+      "sharpness_hits": 80
+    },
+
+
+    "アーティア火(属性4:切れ味1)": {
+      "attack": 205,
+      "affinity": 5,
+      "element": {
+        "type": "火",
+        "value": 300
+      },
+      "sharpness": "白",
+      "sharpness_hits": 50
+    },
+    "アーティア水(属性4:切れ味1)": {
+      "attack": 205,
+      "affinity": 5,
+      "element": {
+        "type": "水",
+        "value": 300
+      },
+      "sharpness": "白",
+      "sharpness_hits": 50
+    },
+    "アーティア雷(属性4:切れ味1)": {
+      "attack": 205,
+      "affinity": 5,
+      "element": {
+        "type": "雷",
+        "value": 300
+      },
+      "sharpness": "白",
+      "sharpness_hits": 50
+    },
+    "アーティア氷(属性4:切れ味1)": {
+      "attack": 205,
+      "affinity": 5,
+      "element": {
+        "type": "氷",
+        "value": 300
+      },
+      "sharpness": "白",
+      "sharpness_hits": 50
+    },
+    "アーティア龍(属性4:切れ味1)": {
+      "attack": 205,
+      "affinity": 5,
+      "element": {
+        "type": "龍",
+        "value": 300
+      },
+      "sharpness": "白",
+      "sharpness_hits": 50
+    }
+}

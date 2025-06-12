@@ -1,0 +1,140 @@
+{
+    "攻撃": {
+      "Lv1": { "add": 3, "mult": 1.0 },
+      "Lv2": { "add": 5, "mult": 1.0 },
+      "Lv3": { "add": 7, "mult": 1.0 },
+      "Lv4": { "add": 8, "mult": 1.02 },
+      "Lv5": { "add": 9, "mult": 1.04 }
+    },
+    "攻めの守勢": {
+      "Lv1": { "mult": 1.05 },
+      "Lv2": { "mult": 1.10 },
+      "Lv3": { "mult": 1.15 }
+    },
+    "連撃": {
+      "Lv1": { "add": 8, "element_add": 60 },
+      "Lv2": { "add": 10, "element_add": 80 },
+      "Lv3": { "add": 12, "element_add": 100 },
+      "Lv4": { "add": 15, "element_add": 120 },
+      "Lv5": { "add": 18, "element_add": 140 }
+    },
+    "挑戦者": {
+      "Lv1": {"add": 4, "affinity": 3},
+      "Lv2": {"add": 8, "affinity": 5},
+      "Lv3": {"add": 12, "affinity": 7},
+      "Lv4": {"add": 16, "affinity": 10},
+      "Lv5": {"add": 20, "affinity": 15}
+    },
+    "巧撃": {
+      "Lv1": { "add": 10 },
+      "Lv2": { "add": 15 },
+      "Lv3": { "add": 20 },
+      "Lv4": { "add": 25 },
+      "Lv5": { "add": 30 }
+    },
+    "急襲": {
+      "Lv1": { "mult": 1.05 },
+      "Lv2": { "mult": 1.10 },
+      "Lv3": { "mult": 1.15 }
+    },
+
+    "火属性攻撃強化": {
+      "Lv1": { "element": "火", "add": 40 },
+      "Lv2": { "element": "火", "add": 50, "mult": 1.1 },
+      "Lv3": { "element": "火", "add": 60, "mult": 1.2 }
+    },
+    "水属性攻撃強化": {
+      "Lv1": { "element": "水", "add": 40 },
+      "Lv2": { "element": "水", "add": 50, "mult": 1.1 },
+      "Lv3": { "element": "水", "add": 60, "mult": 1.2 }
+    },
+    "雷属性攻撃強化": {
+      "Lv1": { "element": "雷", "add": 40 },
+      "Lv2": { "element": "雷", "add": 50, "mult": 1.1 },
+      "Lv3": { "element": "雷", "add": 60, "mult": 1.2 }
+    },
+    "氷属性攻撃強化": {
+      "Lv1": { "element": "氷", "add": 40 },
+      "Lv2": { "element": "氷", "add": 50, "mult": 1.1 },
+      "Lv3": { "element": "氷", "add": 60, "mult": 1.2 }
+    },
+    "龍属性攻撃強化": {
+      "Lv1": { "element": "龍", "add": 40 },
+      "Lv2": { "element": "龍", "add": 50, "mult": 1.1 },
+      "Lv3": { "element": "龍", "add": 60, "mult": 1.2 }
+    },
+    "会心撃【属性】": {
+      "Lv1": { "crit_element_bonus": 1.05 },
+      "Lv2": { "crit_element_bonus": 1.10 },
+      "Lv3": { "crit_element_bonus": 1.15 }
+    },
+
+    "渾身": {
+    "Lv1": { "affinity": 10 },
+    "Lv2": { "affinity": 20 },
+    "Lv3": { "affinity": 30 }
+    },
+    "弱点特効": {
+      "Lv1": { "affinity": 5 },
+      "Lv2": { "affinity": 10 },
+      "Lv3": { "affinity": 15 },
+      "Lv4": { "affinity": 20 },
+      "Lv5": { "affinity": 30 }
+    },
+    "超会心": {
+      "Lv1": { "crit_mult": 1.28 },
+      "Lv2": { "crit_mult": 1.31 },
+      "Lv3": { "crit_mult": 1.34 },
+      "Lv4": { "crit_mult": 1.37 },
+      "Lv5": { "crit_mult": 1.4 }
+    },
+    "力の開放": {
+      "Lv1": { "affinity": 10 },
+      "Lv2": { "affinity": 20 },
+      "Lv3": { "affinity": 30 },
+      "Lv4": { "affinity": 40 },
+      "Lv5": { "affinity": 50 }
+    },
+    "無我の境地": {
+      "Lv1": { "affinity": 3 },
+      "Lv2": { "affinity": 6 },
+      "Lv3": { "affinity": 10 }
+    },
+
+    "黒蝕竜の力（黒色一体）": {
+      "Lv1": { "affinity": 15 },
+      "Lv2": { "add": 15, "affinity": 15 }
+    },
+    "凍峰竜の反逆（束縛反抗）": {
+      "Lv1": { "add": 25 },
+      "Lv2": { "add": 50 }
+    },
+    "兇爪竜の力（連撃強化）": {
+      "Lv1": { "add": 3 },
+      "Lv2": { "add": 10 }
+    },
+    "ヌシの魂（根性【果敢】）": {
+      "Lv1": { "mult": 1.05 }
+    },
+
+    "匠": {
+    "Lv1": { "sharpness_add": 10 },
+    "Lv2": { "sharpness_add": 20 },
+    "Lv3": { "sharpness_add": 30 },
+    "Lv4": { "sharpness_add": 40 },
+    "Lv5": { "sharpness_add": 50 }
+    },
+    "達人芸": {
+      "Lv1": { "crit_sharpness_reduction_prob": 0.8 }
+    },
+    "業物": {
+      "Lv1": { "sharpness_reduction_prob": 0.1 },
+      "Lv2": { "sharpness_reduction_prob": 0.25 },
+      "Lv3": { "sharpness_reduction_prob": 0.5 }
+    },
+    "剛刃研磨": {
+      "Lv1": { "no_sharpness_time": 30 },
+      "Lv2": { "no_sharpness_time": 60 },
+      "Lv3": { "no_sharpness_time": 90 }
+    }
+}
