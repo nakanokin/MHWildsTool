@@ -269,8 +269,8 @@ st.markdown("##  チャンネル・SNSリンク")
 
 col1, col2, col3 = st.columns(3)
 with col1:
-    st.markdown("[ YouTube ]https://www.youtube.com/channel/UC71i-pRMQ_wpjdEMD1rLh_g")
+    st.markdown("[ YouTube ](https://www.youtube.com/channel/UC71i-pRMQ_wpjdEMD1rLh_g)")
 with col2:
-    st.markdown("[ Twitch（生配信）]http://twitch.tv/nakanokin")
+    st.markdown("[ Twitch（生配信）](http://twitch.tv/nakanokin)")
 with col3:
-    st.markdown("[ X ]https://x.com/nakano_enjoys")
+    st.markdown("[ X ](https://x.com/nakano_enjoys)")
