@@ -38,16 +38,16 @@
 
 ---
 
-## 💬 開発者について / コンタクト
+## 💬 コンタクト
 
-YouTube（ゲーム実況・解説）
+- YouTube（ゲーム実況・解説）
 https://www.youtube.com/channel/UC71i-pRMQ_wpjdEMD1rLh_g
-●Twitch（配信）
+- Twitch（配信）
 http://twitch.tv/nakanokin
-●Discode（コミュニティ）
+- Discode（コミュニティ）
 https://discord.com/invite/UjF6TTSpNs
 
-フィードバック・不具合報告・感想などはX（旧Twitter）へ！
+- フィードバック・不具合報告・感想などはX（旧Twitter）へ！
 https://x.com/nakano_enjoys
 
 ---
