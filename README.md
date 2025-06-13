@@ -7,10 +7,10 @@
 
 ---
 
-## 🚀 使い方（公開後はここにURLが入ります）
+## 🚀 使い方
 
 ➡️ Webアプリはこちら（DPS計算ツール）  
-📎 [https://your-tool-name.streamlit.app](https://your-tool-name.streamlit.app)
+📎 https://mhws-katatekin-checkstool.streamlit.app/
 
 1. 武器・スキル構成・コンボを選択
 2. 対象モンスターと部位を指定
