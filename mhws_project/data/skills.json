@@ -68,6 +68,10 @@
       "Lv2": { "crit_element_bonus": 1.10 },
       "Lv3": { "crit_element_bonus": 1.15 }
     },
+    "蒼雷一閃": {
+      "Lv1": { "affinity": 15 },
+      "Lv2": { "affinity": 15 }
+    },
 
     "渾身": {
     "Lv1": { "affinity": 10 },
